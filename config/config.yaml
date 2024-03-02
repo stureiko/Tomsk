@@ -1,0 +1,178 @@
+log_level: 'info'
+max_optimisation_steps: 3
+reserv_limit: 0.5
+coordinate:
+  Menu_7_Input:
+    x: 490
+    y: 42
+  Shemas_drom_library:
+    x: 520
+    y: 75
+  target_folder:
+    x: 530
+    y: 130
+  target_shema:
+    x: 880
+    y: 570
+  show_KS_novosibirsk:
+    x: 1600
+    y: 600
+  max_button:
+    x: 1830
+    y: 20
+  Open_data_from_excel:
+    x: 520
+    y: 175
+  Select_excel_file_button:
+    x: 950
+    y: 315
+  Select_input_line:
+    x: 1300
+    y: 880
+  Open_file_button:
+    x: 1700
+    y: 910
+  Load_data_button:
+    x: 1030
+    y: 315
+  Object_type_list:
+    x: 940
+    y: 280
+  Object_type_pzg:
+    x: 900
+    y: 350
+  Select_pzg_name:
+    x: 1150
+    y: 400
+  Move_to_name_field:
+    x: 900
+    y: 450
+  Select_consumption:
+    x: 1150
+    y: 400
+  Move_to_consumption_field:
+    x: 900
+    y: 550
+  Select_button_in_Astra:
+    x: 1150
+    y: 790
+  Select_button_exit_from_excel_load_data:
+    x: 1250
+    y: 790
+  Select_not_loaded:
+    x: 680
+    y: 810
+  Menu_1_Raschet:
+    x: 50
+    y: 42
+  Menu_Optimisation:
+    x: 80
+    y: 70
+  Button_make_optimisation:
+    x: 700
+    y: 900
+  Critical_error_in_calculation:
+    x: 1120
+    y: 620
+  Optimisation_complete_OK_button:
+    x: 1100
+    y: 610
+  Close_window_with_calculation_result:
+    x: 1330
+    y: 240
+  Menu_2_Correct:
+    x: 130
+    y: 42
+  Select_valves_state:
+    x: 130
+    y: 110
+  Valve_Novosibirsk:
+    x: 1410
+    y: 575
+  Finish_valves_change:
+    x: 130
+    y: 42
+  Down_to_Novosibirsk:
+    x: 1350
+    y: 660
+  Select_PZG_Data:
+    x: 1350
+    y: 660
+  Select_print_PZG_data:
+    x: 930
+    y: 190
+  Save_PZG_Data_to_excel:
+    x: 930
+    y: 300
+  Move_to_export_file_name:
+    x: 1250
+    y: 820
+  Select_save_to_file:
+    x: 1700
+    y: 920
+  Close_window_with_pzg_data:
+    x: 1070
+    y: 150
+  left_>:
+    x: 10
+    y: 600
+  save_data_select_PZG:
+    x: 60
+    y: 190
+  save_data_doc:
+    x: 50
+    y: 380
+  save_data_select_type_PZG:
+    x: 400
+    y: 400
+  save_data_select_all_PZG:
+    x: 570
+    y: 435
+  save_data_select_param_q:
+    x: 800
+    y: 330
+  save_data_select_param_n_asdu:
+    x: 800
+    y: 510
+  save_data_select_param_code_in_db:
+    x: 800
+    y: 530
+  save_data_select_param_code_ooo:
+    x: 800
+    y: 548
+  save_data_select_param_db_type:
+    x: 800
+    y: 565
+  save_data_select_calc_param_q:
+    x: 980
+    y: 395
+  save_data_deselect_db_data:
+    x: 1180
+    y: 315
+  save_data_select_doc:
+    x: 1450
+    y: 850
+  save_data_select_menu_print:
+    x: 800
+    y: 100
+  save_data_select_menu_to_excel:
+    x: 850
+    y: 190
+  save_data_select_file_name:
+    x: 1300
+    y: 820
+  save_data_select_save_button:
+    x: 1720
+    y: 900
+  save_data_select_button_OK:
+    x: 1150
+    y: 550
+  save_data_close_PZG_data:
+    x: 1160
+    y: 80
+  save_data_close_doc_window:
+    x: 1500
+    y: 870
+  save_data_close_panel:
+    x: 100
+    y: 400
